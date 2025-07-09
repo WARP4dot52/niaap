@@ -13,6 +13,7 @@ int main(int argc, char* argv[]) {
 		scanf_s("%c", &keypress, 1);
 		if (keypress == 's') {
 			PlaySoundA(NULL, NULL, SND_FILENAME);
+			return 0;
 		}
 	};
 }
