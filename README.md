@@ -6,4 +6,4 @@ Press 's' to stop the playback
 
 few test (audio) files are available (0XSNDTEST.wav)  
 
-written by WARP7, 8 and 9 July 2025
+written by WARP7, 9 July 2025
